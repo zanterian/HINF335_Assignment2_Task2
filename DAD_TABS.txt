@@ -1,0 +1,315 @@
+1		29-05-2000	Y034	E	1	05	D		M	M54.5	Low back pain	29/May/00	3.SC.20.WA-	"Computerized tomography [CT], spinal vertebrae without enhancement"		V
+2		05-07-2000	Y097	E	2	04	M		M	R41.88	Other and unspecified symptoms and signs involving cognitive functions and awareness					V
+2							2		1	N39.0	"Urinary tract infection, site not specified"					
+2									3	B96.88	Other specified bacterial agents as the cause of diseases classified to other chapters					
+3		15-07-2000	Y092	E	43	04	M		M	I63.9	"Cerebral infarction, unspecified"	7/Jul/00	2.HZ.24.JA-KH	"Electrophysiological measurement, heart external application using holter monitor (ambulatory ECG)"		V
+3							4		1	R47.0	Dysphasia and aphasia					
+3							4		1	N39.0	"Urinary tract infection, site not specified"					
+3							4		3	B96.1	Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified to other chapters					
+3							2		3	I25.10	Atherosclerotic heart disease of native coronary artery					
+3									3	I10.0	Benign hypertension					
+4		24-01-2001	Y084	E	5	05	M		M	S80.9	"Superficial injury of lower leg, unspecified"					V
+4							2		1	S20.8	Superficial injury of other and unspecified parts of thorax					
+4									1	R55.	Syncope and collapse					
+4									9	W18.	Other fall on same level					
+4									9	U98.0	"Place of occurrence, home"					
+4									3	I10.0	Benign hypertension					
+5		13-01-2001	Y047	E	2	05	M		M	K52.9	"Noninfective gastroenteritis and colitis, unspecified"					V
+5							4		1	E27.2	Addisonian crisis					
+5							2									
+6		04-11-2000	0	N	2	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+7		10-11-2000	Y075	E	68	04	M		M	Z50.8	Care involving use of other rehabilitation procedures	23/Sep/00	3.AN.20.WA-	"Computerized tomography [CT], brain without enhancement"		V
+7							4		1	S60.9	Unspecified superficial injury of wrist and hand					
+7							2		9	W19.	Unspecified fall					
+7									9	U98.0	"Place of occurrence, home"					
+7									1	F05.1	Delirium superimposed on dementia					
+7									3	F03.	Unspecified dementia					
+7									3	I12.	Hypertensive renal disease					
+7							W		3	N18.9	"Chronic renal failure, unspecified"					
+7									W	S60.9	Unspecified superficial injury of wrist and hand					
+8		11-11-2000	Y084	E	11	05	M		M	B02.2	Zoster with other nervous system involvement	3/Nov/00	3.AN.40.WA-	"Magnetic resonance imaging, brain without enhancement"		V
+8							2		1	G53.0	Postzoster neuralgia					
+8							4		3	J44.9	"Chronic obstructive pulmonary disease, unspecified"					
+9		23-11-2000	Y026	D	2	05	M		M	O99.803	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium, antepartum condition or complication"	22/Nov/00	3.KR.30.DC-	"Ultrasound, veins of leg NEC with ultrasound and Doppler"		V
+9									3	R07.3	Other chest pain					
+9									3	R06.0	Talipes equinovarus					
+10		30-11-2000	Y029	D	7	04	M		M	O68.001	"Labour and delivery complicated by fetal heart rate anomaly, delivered, with or without mention of antepartum condition"	23/Nov/00	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+10							2		1	O62.301	"Precipitate labour, delivered, with or without mention of antepartum condition"	23/Nov/00	5.AC.30.HA-I2	"Induction of labour, by injection of oxytocic agent"		
+10							4		1	O41.031	"Oligohydramnios, third trimester, delivered, with or without mention of antepartum condition"	23/Nov/00	5.AC.30.AP-	"Induction of labour, using artificial rupture of membranes"		
+10									1	O48.001	"Prolonged pregnancy, delivered, with or without mention of antepartum condition"					
+10									1	O36.531	"Maternal care for restricted fetal growth, third trimester, delivered, with or without mention of antepartum condition"					
+10									1	Z30.0	General counselling and advice on contraception					
+10									3	O61.001	"Failed medical induction of labour, delivered, with or without mention of antepartum condition"					
+10									3	Z37.0	Single live birth					
+11		30-11-2000	0	N	7	05	M		M	P05.99	Unspecified intrauterine growth restriction [IUGR]	25/Nov/00	3.QG.30.DA-	"Ultrasound, scrotum with ultrasound alone"		V
+11							4		1	P59.9	"Neonatal jaundice, unspecified"					
+11									1	Q53.2	"Undescended testicle, bilateral"					
+11									1	K07.05	Dentofacial functional abnormalities					
+11									0	Z38.00	"Singleton, born in hospital, delivered vaginally"					
+11									0	R29.4	Clicking hip					
+11									0	Q66.0	Talipes equinovarus					
+12		02-11-2000	Y077	E	4	05	M		M	G45.4	Transient global amnesia	29/Nov/00	2.AN.24.JA-JA	"Electrophysiological measurement, brain using externally applied electrodes"		V
+12							3		3	I25.10	Atherosclerotic heart disease of native coronary artery	27/Nov/00	3.ER.20.WA-	"Computerized tomography [CT], head NEC without enhancement"		
+12							4		3	I10.0	Benign hypertension	30/Nov/00	3.AN.40.WC-	"Magnetic resonance imaging, brain with enhancement"		
+12							4		3	C61.	Malignant neoplasm of prostate					
+12									3	N19.	Unspecified renal failure					
+12									3	I48.0	Atrial fibrillation					
+13		03-11-2000	Y081	E	4	05	M		M	J44.1	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"					V
+13							2		3	E13.909	"Other specified diabetes mellitus without (mention of) complication, level of control unspecified"					
+13									3	I10.0	Benign hypertension					
+13									3	Z85.0	Personal history of malignant neoplasm of digestive organs					
+14		03-11-2000	0	N	3	05	M		M	Z38.01	"Singleton, born in hospital, delivered by caesarean"					V
+14							2		0	R29.4	Clicking hip					
+15		10-11-2000	Y024	D	4	04	M		M	O36.631	"Maternal care for excessive fetal growth, third trimester, delivered, with or without mention of antepartum condition"	7/Nov/00	5.MD.60.AA-	"Cesarean section, lower segment transverse incision, without instrumentation"		V
+15									1	O41.031	"Oligohydramnios, third trimester, delivered, with or without mention of antepartum condition"					
+15									1	O48.001	"Prolonged pregnancy, delivered, with or without mention of antepartum condition"					
+15									3	O74.502	"Spinal and epidural anaesthesia-induced headache during labour and delivery, delivered, with mention of postpartum complication"					
+15									3	Z37.0	Single live birth					
+16		10-11-2000	0	N	3	05	M		M	Z38.01	"Singleton, born in hospital, delivered by caesarean"					V
+17		13-11-2000	0	N	3	05	M		M	Z38.01	"Singleton, born in hospital, delivered by caesarean"					V
+18		13-11-2000	Y028	D	3	04	M		M	O34.201	"Maternal care for uterine scar due to previous caesarean section, delivered, with or without mention of antepartum condition"	10/Nov/00	5.MD.60.AA-	"Cesarean section, lower segment transverse incision, without instrumentation"		V
+18							2		1	O24.401	"Diabetes mellitus arising in pregnancy, adequately controlled with diet or oral agents, delivered with or without mention of antepartum condition"					
+18									3	E14.900	"Unspecified diabetes mellitus without (mention of) complication, adequately controlled with diet or oral agents"					
+18									3	Z37.0	Single live birth					
+19		14-11-2000	0	N	5	05	M		M	Z38.01	"Singleton, born in hospital, delivered by caesarean"					V
+20		14-11-2000	Y034	D	5	05	M		M	O32.101	"Maternal care for breech presentation, delivered, with or without mention of antepartum condition"	9/Nov/00	5.MD.60.AA-	"Cesarean section, lower segment transverse incision, without instrumentation"		V
+20							2		3	O86.002	"Infection of obstetric surgical wound, delivered, with mention of postpartum complication"					
+20									3	Z37.0	Single live birth					
+21		17-11-2000	0	N	1	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+22		17-11-2000	Y031	D	1	04	M		M	Z37.0	Single live birth	17/Nov/00	5.MD.50.AA-			V
+23		03-07-2000	Y033	D	2	04	M		M	O70.101	"Second degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"	1/Jul/00	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+23									3	Z22.38	Carrier of other specified bacterial diseases		5.PC.80.JP-	"Surgical repair, postpartum, of current obstetric laceration of pelvic floor, perineum, vagina or vulva"		
+23									3	Z29.2	Other prophylactic chemotherapy					
+23									3	Z37.0	Single live birth					
+24		17-01-2001	Y023	D	5	04	M		M	O42.021	"Premature rupture of membrances, onset of labour within 24 hours, full term, delivered, with or without mention of antepartum condition"	13/Jan/01	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+24									1	O24.401	"Diabetes mellitus arising in pregnancy, adequately controlled with diet or oral agents, delivered with or without mention of antepartum condition"		5.PC.80.JP-	"Surgical repair, postpartum, of current obstetric laceration of pelvic floor, perineum, vagina or vulva"		
+24									3	E14.901	"Unspecified diabetes mellitus without (mention of) complication, adequately controlled with insulin"					
+24									1	O70.101	"Second degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"					
+24									3	O99.301	"Mental disorders and diseases of the nervous system complicating pregnancy, childbirth and the puerperium, delivered, with or without mention of antepartum"					
+24									3	F41.2	Mixed anxiety and depressive disorder					
+24									3	Z22.38	Carrier of other specified bacterial diseases					
+24									3	Z29.2	Other prophylactic chemotherapy					
+24									3	Z37.0	Single live birth					
+25		17-01-2001	0	N	4	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+25							4		0	P59.9	"Neonatal jaundice, unspecified"					
+26		17-01-2001	Y083	E	57	07	M		M	S39.9	"Unspecified injury of abdomen, lower back and pelvis"					V
+26							4		9	W19.	Unspecified fall					
+26							2		9	U98.0	"Place of occurrence, home"					
+26									1	F05.1	Delirium superimposed on dementia					
+26									3	G20.	Parkinson's disease					
+26									3	G30.9	"Alzheimer's disease, unspecified"					
+26									3	F00.9	"Dementia in Alzheimer's disease, unspecified"					
+27		17-01-2001	Y027	D	8	05	M		M	O26.803	"Other specified pregnancy-related conditions, antepartum condition or complication"	15/Jan/01	5.AB.03.JA-	"Obstetrical ultrasound examination, abdominal"		V
+28		15-07-2000	Y077	E	8	04	M		M	I50.0	Congestive heart failure					V
+28							2		1	J44.9	"Chronic obstructive pulmonary disease, unspecified"					
+28									1	N39.0	"Urinary tract infection, site not specified"					
+28									3	I48.0	Atrial fibrillation					
+28									3	E11.900	"Type 2 diabetes mellitus without (mention of) complication, adequately controlled with diet or oral agents"					
+28									3	I25.10	Atherosclerotic heart disease of native coronary artery					
+28									3	B96.2	Escherichia coli [E. coli] as the cause of diseases classified to other chapters					
+29		24-01-2001	Y033	D	9	05	M		M	O60.001	"Preterm delivery, delivered, with or without mention of antepartum condition"	19/Jan/01	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+29							4		1	O70.101	"Second degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"		5.PC.80.JP-	"Surgical repair, postpartum, of current obstetric laceration of pelvic floor, perineum, vagina or vulva"		
+29							4		1	O26.801	"Other specified pregnancy-related conditions, delivered, with or without mention of antepartum condition"	17/Jan/01	5.AB.03.JA-	"Obstetrical ultrasound examination, abdominal"		
+29									1	O75.801	"Preterm labour with delivery delayed by therapy, delivered, with or without mention of antepartum condition"	17/Jan/01	3.OT.30.DA-	"Ultrasound, abdominal cavity with ultrasound alone"		
+29									3	Z29.2	Other prophylactic chemotherapy					
+29									3	Z37.0	Single live birth					
+29									3	Z22.38	Carrier of other specified bacterial diseases					
+30		04-02-2001	Y030	D	1	05	M		M	O99.603	"Diseases of the digestive system complicating pregnancy, childbirth and the puerperium, antepartum condition or complication"					V
+30									3	K52.9	"Noninfective gastroenteritis and colitis, unspecified"					
+31		05-02-2001	Y020	D	3	04	M		M	O42.021	"Premature rupture of membrances, onset of labour within 24 hours, full term, delivered, with or without mention of antepartum condition"	3/Feb/01	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+31									3	Z37.0	Single live birth					
+32		05-02-2001	0	N	3	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+33		11-02-2001	0	N	2	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+33							4									
+34		11-02-2001	Y027	D	2	04	M		M	O69.101	"Labour and delivery complicated by cord around neck, with compression, delivered, with or without mention of antepartum condition"	10/Feb/01	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+34									1	O68.001	"Labour and delivery complicated by fetal heart rate anomaly, delivered, with or without mention of antepartum condition"		5.PC.80.JP-	"Surgical repair, postpartum, of current obstetric laceration of pelvic floor, perineum, vagina or vulva"		
+34									1	O70.101	"Second degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"	10/Feb/01	5.LD.20.HA-P1	"Intrapartum pharmacotherapy during active labour, percutaneous approach [e.g. intramuscular, intravenous, subcutaneous, intradermal]  using general anesthetic"		
+34									3	Z37.0	Single live birth	10/Feb/01	5.LD.31.HA-I2	"Augmentation of labour, using injection of oxytocic agent"		
+35		14-02-2001	Y033	D	5	05	M		M	O34.201	"Maternal care for uterine scar due to previous caesarean section, delivered, with or without mention of antepartum condition"	9/Feb/01	5.MD.60.JW-	"Cesarean section, with use of forceps lower segment transverse incision"		V
+35							2		1	Z30.2	Sterilization		1.RF.51.LA-LV	"Occlusion, fallopian tube NEC open approach using ligature (and transection or resection)"		
+35							4		2	O90.002	"Disruption of caesarean section wound, delivered, with mention of postpartum complication"	13/Feb/01	5.PC.80.JM-	"Surgical repair, postpartum, secondary to uterine incision"		
+35									3	Z37.0	Single live birth					
+36		14-02-2001	0	N	5	05	M		M	Z38.01	"Singleton, born in hospital, delivered by caesarean"					V
+37		22-02-2001	0	N	34	05	M		M	P77.	Necrotizing enterocolitis of fetus and newborn	19/Jan/01	1.KV.53.HA-FT	"Implantation of internal device, artery NEC of intra-arterial catheter using percutaneous approach"		V
+37							4		1	P07.1	Other low birth weight	27/Jan/01	1.LZ.35.HH-C6	"Pharmacotherapy (local), circulatory system NEC percutaneous infusion approach of parenteral nutrition"		
+37							2		1	P07.3	Other preterm infants	15/Feb/01	3.AN.30.DA-	"Ultrasound, brain with ultrasound alone"		
+37									1	P22.1	Transient tachypnoea of newborn					
+37									1	P28.4	Other apnoea of newborn					
+37									1	P29.1	Neonatal cardiac dysrhythmia					
+37									1	P92.2	Slow feeding of newborn					
+37									1	K21.9	Gastro-oesophageal reflux disease without oesophagitis					
+37									0	Z03.8	Observation for other suspected diseases and conditions					
+37									0	Z29.2	Other prophylactic chemotherapy					
+37									0	Z38.00	"Singleton, born in hospital, delivered vaginally"					
+38		23-02-2001	Y076	E	3	05	M		M	B02.3	Zoster ocular disease					V
+38							4		3	H58.8	Other specified disorders of eye and adnexa in diseases classified elsewhere					
+38							2		3	I25.19	"Atherosclerotic heart disease of unspecified type of vessel, native or graft"					
+39		23-02-2001	Y081	E	4	05	M		M	A41.50	Septicaemia due to Escherichia coli [E.Coli]	21/Feb/01	3.PC.30.DA-	"Ultrasound, kidney with ultrasound alone"		V
+39							4		1	N39.0	"Urinary tract infection, site not specified"					
+39							2		3	B96.2	Escherichia coli [E. coli] as the cause of diseases classified to other chapters					
+39									1	E87.6	Hypokalaemia					
+39									3	I10.0	Benign hypertension					
+40		04-03-2001	Y078	E	15	05	M		M	Z74.0	Reduced mobility	17/Feb/01	3.OT.30.DA-	"Ultrasound, abdominal cavity with ultrasound alone"		V
+40							4		3	S32.400	"Fracture of acetabulum, closed"					
+40							4		9	V47.5	"Car occupant injured in collision with fixed or stationary object, driver, traffic accident"					
+40							4		3	K80.20	Calculus of gallbladder without cholecystitis without mention of obstruction					
+41		07-03-2001	Y081	E	4	05	M		M	E87.1	Hypo-osmolality and hyponatraemia					V
+42		07-03-2001	Y026	D	4	04	M		M	O42.011	"Preterm premature rupture of membranes, onset of labour within 24 hours, delivered, with or without mention of antepartum condition"	5/Mar/01	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+42							4		1	O75.601	"Delayed delivery after spontaneous or unspecified rupture of membranes, delivered, with or without mention of antepartum condition"	4/Mar/01	5.AC.30.AL-I2	"Induction of labour, using oxytocic agent with combined approaches of administration (e.g. oral with intra-vaginal)"		
+42									1	O41.031	"Oligohydramnios, third trimester, delivered, with or without mention of antepartum condition"	5/Mar/01	5.AB.03.JA-	"Obstetrical ultrasound examination, abdominal"		
+42									1	O60.001	"Preterm delivery, delivered, with or without mention of antepartum condition"					
+42									1	O70.001	"First degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"					
+42									1	O69.201	"Labour and delivery complicated by other cord entanglement, delivered, with or without mention of antepartum condition"					
+42									3	O61.001	"Failed medical induction of labour, delivered, with or without mention of antepartum condition"					
+42									3	Z37.0	Single live birth					
+43		07-03-2001	Y025	D	2	04	M		M	O42.021	"Premature rupture of membrances, onset of labour within 24 hours, full term, delivered, with or without mention of antepartum condition"	5/Mar/01	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+43									1	O70.101	"Second degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"		5.PC.80.JP-	"Surgical repair, postpartum, of current obstetric laceration of pelvic floor, perineum, vagina or vulva"		
+43									1	O24.401	"Diabetes mellitus arising in pregnancy, adequately controlled with diet or oral agents, delivered with or without mention of antepartum condition"					
+43									3	Z37.0	Single live birth					
+44		07-03-2001	0	N	3	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+45		07-03-2001	0	N	1	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+46		13-03-2001	Y078	E	4	05	M		M	M25.46	"Effusion of joint, lower leg"					V
+46							4		3	E11.900	"Type 2 diabetes mellitus without (mention of) complication, adequately controlled with diet or oral agents"					
+47		17-03-2001	Y082	E	10	05	M		M	Z50.8	Care involving use of other rehabilitation procedures	11/Mar/01	3.ER.20.WA-	"Computerized tomography [CT], head NEC without enhancement"		V
+47							2		1	E46.	Unspecified protein-energy malnutrition	11/Mar/01	2.HZ.24.JA-KH	"Electrophysiological measurement, heart external application using holter monitor (ambulatory ECG)"		
+47							4		1	E87.6	Hypokalaemia					
+47									9	Y54.5	Other diuretics causing adverse effect in therapeutic use					
+47									1	E86.0	Dehydration					
+47									3	N39.0	"Urinary tract infection, site not specified"					
+47									3	B96.2	Escherichia coli [E. coli] as the cause of diseases classified to other chapters					
+47							W		3	I12.	Hypertensive renal disease					
+47									3	N18.9	"Chronic renal failure, unspecified"					
+47									3	I25.9	"Chronic ischaemic heart disease, unspecified"					
+47									W	R26.81	Falling					
+48		17-03-2001	Y097	E	8	05	M		M	I48.0	Atrial fibrillation					V
+48							2		3	M35.3	Polymyalgia rheumatica					
+49		21-03-2001	Y035	D	2	04	M		M	O42.121	"Full term premature rupture of membranes, onset of labour after 24 hours. delivered, with or without mention of antepartum condition"	19/Mar/01	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+49									1	O75.601	"Delayed delivery after spontaneous or unspecified rupture of membranes, delivered, with or without mention of antepartum condition"		5.PC.80.JP-	"Surgical repair, postpartum, of current obstetric laceration of pelvic floor, perineum, vagina or vulva"		
+49									1	O62.301	"Precipitate labour, delivered, with or without mention of antepartum condition"	19/Mar/01	5.AC.30.HA-I2	"Induction of labour, by injection of oxytocic agent"		
+49									1	O70.101	"Second degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"					
+49									3	Z37.0	Single live birth					
+50		21-03-2001	0	N	2	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+51		27-03-2001	Y063	E	5	05	M		M	G41.0	Grand mal status epilepticus					V
+52		31-03-2001	Y069	E	4	05	M		M	I63.9	"Cerebral infarction, unspecified"	27/Mar/01	2.HZ.24.JA-KH	"Electrophysiological measurement, heart external application using holter monitor (ambulatory ECG)"		V
+52							2		3	E11.900	"Type 2 diabetes mellitus without (mention of) complication, adequately controlled with diet or oral agents"	29/Mar/01	3.IP.30.DD-	"Ultrasound, heart with coronary arteries with ultrasound, color flow and Doppler (flow mapping)"		
+52							4		3	I12.	Hypertensive renal disease					
+52									3	N18.9	"Chronic renal failure, unspecified"					
+53		31-03-2001	0	N	1	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+54		31-03-2001	Y030	D	1	04	M		M	O70.101	"Second degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"	30/Mar/01	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+54									3	Z37.0	Single live birth		5.PC.80.JP-	"Surgical repair, postpartum, of current obstetric laceration of pelvic floor, perineum, vagina or vulva"		
+55		11-05-2000	Y054	E	2	05	M		M	R10.4	Other and unspecified abdominal pain	10/May/00	3.OT.20.WC-	"Computerized tomography [CT], abdominal cavity with enhancement"		V
+56		25-05-2000	Y026	D	3	04	M		M	O99.001	"Anaemia complicating pregnancy, childbirth and the puerperium, delivered, with or without mention of antepartum condition"	23/May/00	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+56									3	Z37.0	Single live birth					
+57		15-07-2000	0	N	2	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+57									0	P83.5	Congenital hydrocele					
+58		05-05-2000	Y062	E	3	05	M		M	L03.30	Cellulitis of chest wall					V
+58							2		3	E14.900	"Unspecified diabetes mellitus without (mention of) complication, adequately controlled with diet or oral agents"					
+58							4		3	Z85.3	Personal history of malignant neoplasm of breast					
+59		04-11-2000	Y035	D	3	04	M		M	O62.201	"Other uterine inertia, delivered, with or without mention of antepartum condition"	2/Nov/00	5.MD.54.KK-	"Vacuum traction, without episiotomy low vacuum traction"		V
+59							4		1	O42.021	"Premature rupture of membrances, onset of labour within 24 hours, full term, delivered, with or without mention of antepartum condition"		5.PC.80.JP-	"Surgical repair, postpartum, of current obstetric laceration of pelvic floor, perineum, vagina or vulva"		
+59									1	O70.001	"First degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"	2/Nov/00	5.LD.20.HA-P1	"Intrapartum pharmacotherapy during active labour, percutaneous approach [e.g. intramuscular, intravenous, subcutaneous, intradermal]  using general anesthetic"		
+59									1	O99.301	"Mental disorders and diseases of the nervous system complicating pregnancy, childbirth and the puerperium, delivered, with or without mention of antepartum"	1/Nov/00	5.AC.30.HA-I2	"Induction of labour, by injection of oxytocic agent"		
+59									3	F19.1	"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, harmful use"					
+59									3	Z22.51	Carrier of viral hepatitis C					
+59									3	Z29.2	Other prophylactic chemotherapy					
+59									3	Z37.0	Single live birth					
+60		27-07-2000	Y096	E	21	05	M		M	A41.50	Septicaemia due to Escherichia coli [E.Coli]	11/Jul/00	1.VG.52.HA-	"Drainage, knee joint using percutaneous (needle) aspiration"		V
+60							4		1	M25.46	"Effusion of joint, lower leg"	15/Jul/00	3.OT.30.DA-	"Ultrasound, abdominal cavity with ultrasound alone"		
+60							4		1	R41.0	"Disorientation, unspecified"					
+60							4		1	K80.30	Calculus of bile duct with cholangitis without mention of obstruction					
+60							2		3	I48.0	Atrial fibrillation					
+61		11-07-2000	Y029	D	2	05	M		M	O23.003	"Infections of kidney in pregnancy, antepartum condition or complication"					V
+62		30-05-2000	Y067	E	9	05	M		M	A04.7	Enterocolitis due to Clostridium difficile					V
+63		14-09-2000	0	N	2	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+63							4									
+64		05-09-2000	0	N	3	05	M		M	P92.5	Neonatal difficulty in feeding at breast					V
+64									0	Z38.00	"Singleton, born in hospital, delivered vaginally"					
+65		15-07-2000	Y083	E	22	07	M		M	C78.7	Secondary malignant neoplasm of liver	1/Jul/00	3.OT.20.WC-	"Computerized tomography [CT], abdominal cavity with enhancement"		V
+65							4		1	E87.6	Hypokalaemia	1/Jul/00	3.OT.30.DA-	"Ultrasound, abdominal cavity with ultrasound alone"		
+65							4		1	N39.0	"Urinary tract infection, site not specified"					
+65							2		3	B95.48	Other streptococcus as the cause of diseases classified to other chapters					
+65									3	E11.900	"Type 2 diabetes mellitus without (mention of) complication, adequately controlled with diet or oral agents"					
+65									3	C80.	Malignant neoplasm without specification of site					
+66		11-07-2000	0	N	2	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+67		04-11-2000	Y035	D	2	04	M		M	O70.201	"Third degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"	2/Nov/00	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+67							4		2	O72.102	"Other immediate postpartum haemorrhage, delivered, with mention of postpartum complication"	2/Nov/00	5.PC.80.JQ-	"Surgical repair, postpartum, of current obstetric laceration of rectum and sphincter ani"		
+67									3	Z22.38	Carrier of other specified bacterial diseases					
+67									3	Z37.0	Single live birth					
+68		04-07-2000	0	N	2	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+69		14-09-2000	Y019	D	2	04	M		M	O70.101	"Second degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"	11/Sep/00	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+69									3	Z22.38	Carrier of other specified bacterial diseases		5.PC.80.JP-	"Surgical repair, postpartum, of current obstetric laceration of pelvic floor, perineum, vagina or vulva"		
+69									3	Z29.2	Other prophylactic chemotherapy	11/Sep/00	5.LD.20.HA-P1	"Intrapartum pharmacotherapy during active labour, percutaneous approach [e.g. intramuscular, intravenous, subcutaneous, intradermal]  using general anesthetic"		
+69									3	Z37.0	Single live birth					
+70		09-04-2000	Y089	E	6	05	M		M	I50.0	Congestive heart failure	4/Apr/00	2.HZ.24.JA-KH	"Electrophysiological measurement, heart external application using holter monitor (ambulatory ECG)"		V
+70							2		1	I35.0	Aortic (valve) stenosis					
+70							4		3	I45.9	"Conduction disorder, unspecified"					
+70									3	I10.0	Benign hypertension					
+71		03-07-2000	0	N	2	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+72		25-05-2000	0	N	3	05	M		M	P29.8	Other cardiovascular disorders originating in the perinatal period					V
+72							4		0	Z38.00	"Singleton, born in hospital, delivered vaginally"					
+73		04-05-2000	Y060	E	3	05	M		M	G45.9	"Transient cerebral ischaemic attack, unspecified"	1/May/00	3.JE.30.DD-	"Ultrasound, carotid artery with ultrasound, color flow and Doppler"		V
+74		14-05-2000	Y081	E	2	05	M		M	S05.1	Contusion of eyeball and orbital tissues					V
+74							2		9	W19.	Unspecified fall					
+74									9	U98.0	"Place of occurrence, home"					
+74									1	R53.	Malaise and fatigue					
+74									3	E11.900	"Type 2 diabetes mellitus without (mention of) complication, adequately controlled with diet or oral agents"					
+74									3	C71.9	Malignant neoplasm of brain unspecified					
+75		25-10-2000	0	N	2	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+76		05-09-2000	Y028	D	3	04	M		M	O70.101	"Second degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"	2/Sep/00	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+76									3	Z37.0	Single live birth		5.PC.80.JP-	"Surgical repair, postpartum, of current obstetric laceration of pelvic floor, perineum, vagina or vulva"		
+76												2/Sep/00	5.LD.20.HA-P1	"Intrapartum pharmacotherapy during active labour, percutaneous approach [e.g. intramuscular, intravenous, subcutaneous, intradermal]  using general anesthetic"		
+77		15-07-2000	Y039	D	3	04	M		M	Z37.0	Single live birth	13/Jul/00	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+78		05-07-2000	Y080	E	32	04	M		M	S32.500	"Fracture of pubis, closed"	7/May/00	3.OT.30.DA-	"Ultrasound, abdominal cavity with ultrasound alone"		V
+78							4		1	S22.400	"Multiple fractures of 2 - 4 ribs, closed"	7/May/00	3.IP.30.DD-	"Ultrasound, heart with coronary arteries with ultrasound, color flow and Doppler (flow mapping)"		
+78							4		9	W18.	Other fall on same level	11/May/00	2.GZ.58.TA-	"Function study, respiratory system at rest (steady state)"		
+78							2		9	U98.0	"Place of occurrence, home"	11/May/00	3.IP.70.KP-	"Diagnostic nuclear (imaging) study, heart with coronary arteries using scintigraphy blood pool imaging"		
+78									1	J18.9	"Pneumonia, unspecified"	14/May/00	3.WZ.70.CA-	"Diagnostic nuclear (imaging) study, musculoskeletal system, using scintigraphy"		
+78									1	J44.0	Chronic obstructive pulmonary disease with acute lower respiratory infection	22/May/00	3.OT.20.WA-	"Computerized tomography [CT], abdominal cavity without enhancement"		
+78									1	E11.223	"Type 2 diabetes mellitus with end-stage renal disease [ESRD], inadequately controlled with diet or oral agents but adequately controlled with insulin"					
+78									3	N18.9	"Chronic renal failure, unspecified"					
+78									3	N08.3	Glomerular disorders in diabetes mellitus					
+79		05-07-2000	Y041	D	3	04	M		M	O69.201	"Labour and delivery complicated by other cord entanglement, delivered, with or without mention of antepartum condition"	2/Jul/00	5.MD.60.AA-	"Cesarean section, lower segment transverse incision, without instrumentation"		V
+79							2		1	O68.001	"Labour and delivery complicated by fetal heart rate anomaly, delivered, with or without mention of antepartum condition"	2/Jul/00	5.LD.31.HA-I2	"Augmentation of labour, using injection of oxytocic agent"		
+79							4		3	O99.002	"Anaemia complicating pregnancy, childbirth and the puerperium, delivered, with mention of postpartum complication"					
+79									3	D64.9	"Anaemia, unspecified"					
+79									3	Z22.38	Carrier of other specified bacterial diseases					
+79									3	Z29.2	Other prophylactic chemotherapy					
+79									3	Z37.0	Single live birth					
+80		04-07-2000	Y034	D	2	04	M		M	O13.001	"Gestational [pregnancy-induced] hypertension without significant proteinuria, delivered, with or without mention of antepartum condition"	2/Jul/00	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+80							2		1	O70.001	"First degree perineal laceration during delivery, delivered, with or without mention of antepartum condition"					
+80									3	Z22.38	Carrier of other specified bacterial diseases					
+80									3	Z29.2	Other prophylactic chemotherapy					
+80									3	Z37.0	Single live birth					
+81		15-05-2000	Y089	E	7	04	M		M	I50.0	Congestive heart failure					V
+81							2		3	I35.0	Aortic (valve) stenosis					
+81							4		3	I10.0	Benign hypertension					
+81									3	E11.900	"Type 2 diabetes mellitus without (mention of) complication, adequately controlled with diet or oral agents"					
+81									3	Z95.0	Presence of cardiac pacemaker					
+82		05-04-2000	Y029	E	1	05	M		M	N12.	"Tubulo-interstitial nephritis, not specified as acute or chronic"	5/Apr/00	3.PC.30.DA-	"Ultrasound, kidney with ultrasound alone"		V
+82							3		3	Z33.	"Pregnant state, incidental"		5.AB.03.JA-	"Obstetrical ultrasound examination, abdominal"		
+83		25-10-2000	Y036	D	2	04	M		M	O73.002	"Retained placenta without haemorrhage, delivered, with mention of postpartum complication"	24/Oct/00	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+83							4		2	O73.002	"Retained placenta without haemorrhage, delivered, with mention of postpartum complication"	24/Oct/00	5.PC.91.HN-	"Interventions to uterus (following delivery), manual removal of placenta from uterus (e.g. Brandt Andrews maneuver)"		
+83									3	Z37.0	Single live birth					
+84		21-09-2000	Y026	D	5	05	M		M	O45.901	"Premature separation of placenta, unspecified, delivered, with or without mention of antepartum condition"	17/Sep/00	5.MD.60.AA-	"Cesarean section, lower segment transverse incision, without instrumentation"		V
+84							4		1	O68.201	"Labour and delivery complicated by fetal heart rate anomaly with meconium in amniotic fluid, delivered, with or without mention of antepartum condition"					
+84									3	Z22.38	Carrier of other specified bacterial diseases					
+84									3	Z29.2	Other prophylactic chemotherapy					
+84									3	Z37.0	Single live birth					
+85		03-05-2000	Y089	E	6	04	M		M	I35.0	Aortic (valve) stenosis					V
+85							2		3	I10.0	Benign hypertension					
+85									3	E11.900	"Type 2 diabetes mellitus without (mention of) complication, adequately controlled with diet or oral agents"					
+85									3	Z95.0	Presence of cardiac pacemaker					
+86		04-04-2000	Y081	E	1	05	M		M	N10.	Acute tubulo-interstitial nephritis					V
+86							2		3	B96.2	Escherichia coli [E. coli] as the cause of diseases classified to other chapters					
+87		11-07-2000	Y033	D	2	04	M		M	O62.301	"Precipitate labour, delivered, with or without mention of antepartum condition"	9/Jul/00	5.MD.50.AA-	"Manually assisted vaginal delivery (vertex), without episiotomy"		V
+87									3	Z22.38	Carrier of other specified bacterial diseases					
+87									3	Z37.0	Single live birth					
+88		14-05-2000	0	N	1	05	M		M	Z38.00	"Singleton, born in hospital, delivered vaginally"					V
+89		30-05-2000	Y089	E	5	05	M		M	I50.0	Congestive heart failure					V
+89							2		3	I35.0	Aortic (valve) stenosis					
+90		25-05-2000	Y042	E	6	05	M		M	N17.9	"Acute renal failure, unspecified"	21/May/00	3.WZ.70.CA-	"Diagnostic nuclear (imaging) study, musculoskeletal system, using scintigraphy"		V
+90							4		1	E86.0	Dehydration					
+90							2		1	K52.9	"Noninfective gastroenteritis and colitis, unspecified"					
+90							3		3	F14.1	"Mental and behavioural disorders due to use of cocaine, harmful use"					
+90									3	F11.2	"Mental and behavioural disorders due to use of opioids, dependence syndrome"					
+90									3	Z22.51	Carrier of viral hepatitis C					
