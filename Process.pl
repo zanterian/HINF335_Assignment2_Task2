@@ -18,33 +18,33 @@ sub count_stuff{
     $description =~ s/["']//g;
     
     ##################### BEGIN FIND QUARTER COUNT #############################
-    #Chapter 1: A00-B99 : Certain infectious and parasitic diseases
+    #Chapter 01: A00-B99 : Certain infectious and parasitic diseases
     if(m/[AB]\d\d(\.\d{0,3})?/i){
-        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 1: A00-B99 : Certain infectious and parasitic diseases'}++;
-    #Chapter 2: C00-D48 : Neoplasms
+        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 01: A00-B99 : Certain infectious and parasitic diseases'}++;
+    #Chapter 02: C00-D48 : Neoplasms
     }elsif(m/(C\d\d(\.\d{0,3})?)|(D([0-3]\d|4[0-8])(\.\d{0,3})?)/i){
-        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 2: C00-D48 : Neoplasms'}++;
-    #Chapter 3: D50-D89 : Diseases of the blood and blood forming organs involving immune system
+        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 02: C00-D48 : Neoplasms'}++;
+    #Chapter 03: D50-D89 : Diseases of the blood and blood forming organ
     }elsif(m/D([5-7]\d|8[0-9])(\.\d{0,3})?/i){
-        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 3: D50-D89 : Diseases of the blood and blood forming organs involving immune system'}++;
-    #Chapter 4: E00-E90 : Endocrine, nutritional and metabolic diseases
+        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 03: D50-D89 : Diseases of the blood and blood forming organ'}++;
+    #Chapter 04: E00-E90 : Endocrine, nutritional and metabolic diseases
     }elsif(m/E([0-8]\d|90)(\.\d{0,3})?/i){
-        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 4: E00-E90 : Endocrine, nutritional and metabolic diseases'}++;
-    #Chapter 5: F00-F99 : Mental and behavioral disorders
+        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 04: E00-E90 : Endocrine, nutritional and metabolic diseases'}++;
+    #Chapter 05: F00-F99 : Mental and behavioral disorders
     }elsif(m/F\d\d(\.\d{0,3})?/i){
-        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 5: F00-F99 : Mental and behavioral disorders'}++;
-    #Chapter 6: G00-G99 : Diseases of the nervous system
+        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 05: F00-F99 : Mental and behavioral disorders'}++;
+    #Chapter 06: G00-G99 : Diseases of the nervous system
     }elsif(m/G\d\d(\.\d{0,3})?/i){
-        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 6: G00-G99 : Diseases of the nervous system'}++;
-    #Chapter 7: H00-H59 : Diseases of the eye and adnexa
+        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 06: G00-G99 : Diseases of the nervous system'}++;
+    #Chapter 07: H00-H59 : Diseases of the eye and adnexa
     }elsif(m/H[0-5]\d(\.\d{0,3})?/i){
-        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 7: H00-H59 : Diseases of the eye and adnexa'}++;
-    #Chapter 8: H60-H95 : Diseases of the ear and mastoid process
+        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 07: H00-H59 : Diseases of the eye and adnexa'}++;
+    #Chapter 08: H60-H95 : Diseases of the ear and mastoid process
     }elsif(m/H([6-8]\d|9[0-5])(\.\d{0,3})?/i){ 
-        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 8: H60-H95 : Diseases of the ear and mastoid process'}++;
-    #Chapter 9: I00-I99 : Diseases of the circulatory system
+        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 08: H60-H95 : Diseases of the ear and mastoid process'}++;
+    #Chapter 09: I00-I99 : Diseases of the circulatory system
     }elsif(m/I\d\d(\.\d{0,3})?/i){
-        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 9: I00-I99 : Diseases of the circulatory system'}++;
+        $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 09: I00-I99 : Diseases of the circulatory system'}++;
     #Chapter 10: J00-J99 : Diseases of the respirotory system
     }elsif(m/J\d\d(\.\d{0,3})?/i){
         $array_of_dx_count_hash[$mrn_date{@_[1]}]{'Chapter 10: J00-J99 : Diseases of the respirotory system'}++;
@@ -184,15 +184,15 @@ sub print_dx_occurance{
 # 2 = Third quarter
 # 3 = Fourth quarter
 @array_of_dx_count_hash = (
-    {   'Chapter 1: A00-B99 : Certain infectious and parasitic diseases' => 0
-    ,   'Chapter 2: C00-D48 : Neoplasms' => 0
-    ,   'Chapter 3: D50-D89 : Diseases of the blood and blood forming organs involving immune system' => 0
-    ,   'Chapter 4: E00-E90 : Endocrine, nutritional and metabolic diseases' => 0
-    ,   'Chapter 5: F00-F99 : Mental and behavioral disorders' => 0
-    ,   'Chapter 6: G00-G99 : Diseases of the nervous system' => 0
-    ,   'Chapter 7: H00-H59 : Diseases of the eye and adnexa' => 0
-    ,   'Chapter 8: H60-H95 : Diseases of the ear and mastoid process' => 0
-    ,   'Chapter 9: I00-I99 : Diseases of the circulatory system' => 0
+    {   'Chapter 01: A00-B99 : Certain infectious and parasitic diseases' => 0
+    ,   'Chapter 02: C00-D48 : Neoplasms' => 0
+    ,   'Chapter 03: D50-D89 : Diseases of the blood and blood forming organ' => 0
+    ,   'Chapter 04: E00-E90 : Endocrine, nutritional and metabolic diseases' => 0
+    ,   'Chapter 05: F00-F99 : Mental and behavioral disorders' => 0
+    ,   'Chapter 06: G00-G99 : Diseases of the nervous system' => 0
+    ,   'Chapter 07: H00-H59 : Diseases of the eye and adnexa' => 0
+    ,   'Chapter 08: H60-H95 : Diseases of the ear and mastoid process' => 0
+    ,   'Chapter 09: I00-I99 : Diseases of the circulatory system' => 0
     ,   'Chapter 10: J00-J99 : Diseases of the respirotory system' => 0
     ,   'Chapter 11: K00-K93 : Diseases of the digestive system' => 0
     ,   'Chapter 12: L00-L99 : Disease of the skin and subcutaneous tissue' => 0
@@ -207,15 +207,15 @@ sub print_dx_occurance{
     ,   'Chapter 21: Z00-Z99 : Factors influencing health status and contact with health services' => 0
     ,   'Chapter 23: U00-U99 : Provisional for new diseases or provisional assignments in Canada' => 0
     }
-,   {   'Chapter 1: A00-B99 : Certain infectious and parasitic diseases' => 0
-    ,   'Chapter 2: C00-D48 : Neoplasms' => 0
-    ,   'Chapter 3: D50-D89 : Diseases of the blood and blood forming organs involving immune system' => 0
-    ,   'Chapter 4: E00-E90 : Endocrine, nutritional and metabolic diseases' => 0
-    ,   'Chapter 5: F00-F99 : Mental and behavioral disorders' => 0
-    ,   'Chapter 6: G00-G99 : Diseases of the nervous system' => 0
-    ,   'Chapter 7: H00-H59 : Diseases of the eye and adnexa' => 0
-    ,   'Chapter 8: H60-H95 : Diseases of the ear and mastoid process' => 0
-    ,   'Chapter 9: I00-I99 : Diseases of the circulatory system' => 0
+,   {   'Chapter 01: A00-B99 : Certain infectious and parasitic diseases' => 0
+    ,   'Chapter 02: C00-D48 : Neoplasms' => 0
+    ,   'Chapter 03: D50-D89 : Diseases of the blood and blood forming organ' => 0
+    ,   'Chapter 04: E00-E90 : Endocrine, nutritional and metabolic diseases' => 0
+    ,   'Chapter 05: F00-F99 : Mental and behavioral disorders' => 0
+    ,   'Chapter 06: G00-G99 : Diseases of the nervous system' => 0
+    ,   'Chapter 07: H00-H59 : Diseases of the eye and adnexa' => 0
+    ,   'Chapter 08: H60-H95 : Diseases of the ear and mastoid process' => 0
+    ,   'Chapter 09: I00-I99 : Diseases of the circulatory system' => 0
     ,   'Chapter 10: J00-J99 : Diseases of the respirotory system' => 0
     ,   'Chapter 11: K00-K93 : Diseases of the digestive system' => 0
     ,   'Chapter 12: L00-L99 : Disease of the skin and subcutaneous tissue' => 0
@@ -230,15 +230,15 @@ sub print_dx_occurance{
     ,   'Chapter 21: Z00-Z99 : Factors influencing health status and contact with health services' => 0
     ,   'Chapter 23: U00-U99 : Provisional for new diseases or provisional assignments in Canada' => 0
     }
-,   {   'Chapter 1: A00-B99 : Certain infectious and parasitic diseases' => 0
-    ,   'Chapter 2: C00-D48 : Neoplasms' => 0
-    ,   'Chapter 3: D50-D89 : Diseases of the blood and blood forming organs involving immune system' => 0
-    ,   'Chapter 4: E00-E90 : Endocrine, nutritional and metabolic diseases' => 0
-    ,   'Chapter 5: F00-F99 : Mental and behavioral disorders' => 0
-    ,   'Chapter 6: G00-G99 : Diseases of the nervous system' => 0
-    ,   'Chapter 7: H00-H59 : Diseases of the eye and adnexa' => 0
-    ,   'Chapter 8: H60-H95 : Diseases of the ear and mastoid process' => 0
-    ,   'Chapter 9: I00-I99 : Diseases of the circulatory system' => 0
+,   {   'Chapter 01: A00-B99 : Certain infectious and parasitic diseases' => 0
+    ,   'Chapter 02: C00-D48 : Neoplasms' => 0
+    ,   'Chapter 03: D50-D89 : Diseases of the blood and blood forming organ' => 0
+    ,   'Chapter 04: E00-E90 : Endocrine, nutritional and metabolic diseases' => 0
+    ,   'Chapter 05: F00-F99 : Mental and behavioral disorders' => 0
+    ,   'Chapter 06: G00-G99 : Diseases of the nervous system' => 0
+    ,   'Chapter 07: H00-H59 : Diseases of the eye and adnexa' => 0
+    ,   'Chapter 08: H60-H95 : Diseases of the ear and mastoid process' => 0
+    ,   'Chapter 09: I00-I99 : Diseases of the circulatory system' => 0
     ,   'Chapter 10: J00-J99 : Diseases of the respirotory system' => 0
     ,   'Chapter 11: K00-K93 : Diseases of the digestive system' => 0
     ,   'Chapter 12: L00-L99 : Disease of the skin and subcutaneous tissue' => 0
@@ -253,15 +253,15 @@ sub print_dx_occurance{
     ,   'Chapter 21: Z00-Z99 : Factors influencing health status and contact with health services' => 0
     ,   'Chapter 23: U00-U99 : Provisional for new diseases or provisional assignments in Canada' =>
     }
-,   {   'Chapter 1: A00-B99 : Certain infectious and parasitic diseases' => 0
-    ,   'Chapter 2: C00-D48 : Neoplasms' => 0
-    ,   'Chapter 3: D50-D89 : Diseases of the blood and blood forming organs involving immune system' => 0
-    ,   'Chapter 4: E00-E90 : Endocrine, nutritional and metabolic diseases' => 0
-    ,   'Chapter 5: F00-F99 : Mental and behavioral disorders' => 0
-    ,   'Chapter 6: G00-G99 : Diseases of the nervous system' => 0
-    ,   'Chapter 7: H00-H59 : Diseases of the eye and adnexa' => 0
-    ,   'Chapter 8: H60-H95 : Diseases of the ear and mastoid process' => 0
-    ,   'Chapter 9: I00-I99 : Diseases of the circulatory system' => 0
+,   {   'Chapter 01: A00-B99 : Certain infectious and parasitic diseases' => 0
+    ,   'Chapter 02: C00-D48 : Neoplasms' => 0
+    ,   'Chapter 03: D50-D89 : Diseases of the blood and blood forming organ' => 0
+    ,   'Chapter 04: E00-E90 : Endocrine, nutritional and metabolic diseases' => 0
+    ,   'Chapter 05: F00-F99 : Mental and behavioral disorders' => 0
+    ,   'Chapter 06: G00-G99 : Diseases of the nervous system' => 0
+    ,   'Chapter 07: H00-H59 : Diseases of the eye and adnexa' => 0
+    ,   'Chapter 08: H60-H95 : Diseases of the ear and mastoid process' => 0
+    ,   'Chapter 09: I00-I99 : Diseases of the circulatory system' => 0
     ,   'Chapter 10: J00-J99 : Diseases of the respirotory system' => 0
     ,   'Chapter 11: K00-K93 : Diseases of the digestive system' => 0
     ,   'Chapter 12: L00-L99 : Disease of the skin and subcutaneous tissue' => 0

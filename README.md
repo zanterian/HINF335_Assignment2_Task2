@@ -11,7 +11,9 @@ $ cat DAD\_TABS.TXT | ./Process.pl;
 
 This will print it out to stdout.
 
-To print to a file named 'output':
+To print to a file named 'Output.txt':
 
 $ cat DAD\_TABS.TXT | ./Process.pl > Output.txt;
 
+To print to a file then automatically open that file in libreoffice calc:
+$ cat DAD\_TABS.TXT | ./Process.pl > Output.txt;libreoffice --calc Output.txt;
