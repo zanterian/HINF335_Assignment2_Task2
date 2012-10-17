@@ -1,26 +1,26 @@
 Section	Q1	Q2	Q3	Q4
-Chapter 3: D50-D89 : Diseases of the blood and blood forming organs involving immune system	0	1	0	0
+Chapter 01: A00-B99 : Certain infectious and parasitic diseases	2	5	1	4
+Chapter 02: C00-D48 : Neoplasms	1	2	1	0
+Chapter 03: D50-D89 : Diseases of the blood and blood forming organ	0	1	0	0
+Chapter 04: E00-E90 : Endocrine, nutritional and metabolic diseases	5	4	2	9
+Chapter 05: F00-F99 : Mental and behavioral disorders	2	0	3	3
+Chapter 06: G00-G99 : Diseases of the nervous system	1	0	2	3
+Chapter 07: H00-H59 : Diseases of the eye and adnexa	0	0	0	1
+Chapter 08: H60-H95 : Diseases of the ear and mastoid process	0	0	0	0
+Chapter 09: I00-I99 : Diseases of the circulatory system	11	7	5	8
+Chapter 10: J00-J99 : Diseases of the respirotory system	0	3	2	0
+Chapter 11: K00-K93 : Diseases of the digestive system	1	1	1	4
+Chapter 12: L00-L99 : Disease of the skin and subcutaneous tissue	1	0	0	0
+Chapter 13: M00-M99 : Diseases of the musculoskeletal system and connective tissue	1	1	0	2
+Chapter 14: N00-N99 : Diseases of the genitourinary system	3	6	2	4
+Chapter 15: O00-O99 : Pregnancy, childbirth and the puerperium	1	12	23	31
+Chapter 16: P00-P96 : Certain conditions originating in the perinatal period	1	2	2	8
+Chapter 17: Q00-Q99 : Congenital malformations, defomrations and chromosomal abnormalities	0	0	2	0
+Chapter 18: R00-R99 : Symptoms, signs, and abnormal clinical and laboratory findings (not elsewhere classified)	2	3	4	2
+Chapter 19: S00-T98 : Injury, poisoning and certain other consequences of external causes	1	2	2	4
 Chapter 20: V01-Y98 : External causes of morbiditiy and mortality	1	1	1	4
 Chapter 21: Z00-Z99 : Factors influencing health status and contact with health services	8	25	22	27
-Chapter 15: O00-O99 : Pregnancy, childbirth and the puerperium	1	12	23	31
-Chapter 12: L00-L99 : Disease of the skin and subcutaneous tissue	1	0	0	0
-Chapter 9: I00-I99 : Diseases of the circulatory system	11	7	5	8
-Chapter 17: Q00-Q99 : Congenital malformations, defomrations and chromosomal abnormalities	0	0	2	0
-Chapter 7: H00-H59 : Diseases of the eye and adnexa	0	0	0	1
-Chapter 1: A00-B99 : Certain infectious and parasitic diseases	2	5	1	4
-Chapter 16: P00-P96 : Certain conditions originating in the perinatal period	1	2	2	8
-Chapter 6: G00-G99 : Diseases of the nervous system	1	0	2	3
-Chapter 10: J00-J99 : Diseases of the respirotory system	0	3	2	0
-Chapter 8: H60-H95 : Diseases of the ear and mastoid process	0	0	0	0
-Chapter 11: K00-K93 : Diseases of the digestive system	1	1	1	4
-Chapter 14: N00-N99 : Diseases of the genitourinary system	3	6	2	4
-Chapter 4: E00-E90 : Endocrine, nutritional and metabolic diseases	5	4	2	9
 Chapter 23: U00-U99 : Provisional for new diseases or provisional assignments in Canada	1	1	1	2
-Chapter 5: F00-F99 : Mental and behavioral disorders	2	0	3	3
-Chapter 13: M00-M99 : Diseases of the musculoskeletal system and connective tissue	1	1	0	2
-Chapter 19: S00-T98 : Injury, poisoning and certain other consequences of external causes	1	2	2	4
-Chapter 2: C00-D48 : Neoplasms	1	2	1	0
-Chapter 18: R00-R99 : Symptoms, signs, and abnormal clinical and laboratory findings (not elsewhere classified)	2	3	4	2
 Totals:	43	76	76	116
 				
  NOTE: QUARTERS ARE CANADIAN FISCAL QUARTARS				

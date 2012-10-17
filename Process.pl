@@ -3,20 +3,17 @@
 # THIS IS ONLY SPECIFIC TO ICD-10 CHAPTERS!!!! 
 # DO NOT APPLY TO ANY OTHER ICD REVISION!!!!
 
-#Regex ref (used during development)
-# A\d\d(\.\d{0,3})?|B([0-4]\d|50)(\.\d{0,3})?
-# A\d\d(\.\d{0,3})?|B([0-3]\d|4[0-8]|50)(\.\d{0,3})?
-
-#REF ON PARAMATERS PASSED IN:
-# @_[0] = DX_CODE
-# @_[1] = MRN
-# @_[2] = DX_CODE DESCRIPTION
-
+# Regex ref (used during development)
+#  A\d\d(\.\d{0,3})?|B([0-4]\d|50)(\.\d{0,3})?
+#  A\d\d(\.\d{0,3})?|B([0-3]\d|4[0-8]|50)(\.\d{0,3})?
+# REF ON PARAMATERS PASSED IN:
+#  @_[0] = DX_CODE
+#  @_[1] = MRN
+#  @_[2] = DX_CODE DESCRIPTION
 sub count_stuff{
     $_ = @_[0];
     $description = @_[2];
     $description =~ s/["']//g;
-    
     ##################### BEGIN FIND QUARTER COUNT #############################
     #Chapter 01: A00-B99 : Certain infectious and parasitic diseases
     if(m/[AB]\d\d(\.\d{0,3})?/i){
@@ -277,8 +274,6 @@ sub print_dx_occurance{
     ,   'Chapter 23: U00-U99 : Provisional for new diseases or provisional assignments in Canada' => 0
     }
 );
-
-
 sub main{
     &input_loop;
     &print_quarter_count;
