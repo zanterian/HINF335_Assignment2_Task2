@@ -1,6 +1,7 @@
 FILE DESCRIPTIONS:
 
 DAD\_TABS.TXT: This file contains the DAD file in tab-separated format.
+
 Process.pl	 : This is the perl executable. Takes in the DAD\_TABS file as an argument. I used it to experiment with data structures. I'm aware of how ugly it is :) 
 
 USAGE:
